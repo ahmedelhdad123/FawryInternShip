@@ -9,8 +9,6 @@
 ## OOP
 - E-Commerce(OOP)
   - [E-Commerce OOP Repository](https://github.com/ahmedelhdad123/E-Commerce-OOp/tree/master)
-## Git
-- [Git](https://github.com/ahmedelhdad123/Git/blob/main/README.md)
 ## Java Collections
 - [Java Collections](https://github.com/ahmedelhdad123/java-topics.git)
 ## JavaStream
