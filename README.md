@@ -4,7 +4,7 @@
 - ![build](https://github.com/ahmedelhdad123/FawryInternShip/assets/91333530/41e71817-fb6f-4a6c-9f25-2cee6aa336dd)
 ------------------------------------------------------------------------------------------------------------------------
 
-## Week 1 Topics ->(OOP,Collections,Git,lamdaExpression,JavaStream)
+## Week 1 Topics ->(OOP,Collections,Git,Java8 lambda expression, streams)
 
 ### OOP
 - E-Commerce(OOP)
@@ -16,7 +16,7 @@
 ### lamdaExpression
 - [lamdaExpressionTask](https://github.com/ahmedelhdad123/lamdaExpression.git)
 
-## Week 2 Topics ->(Rest Api Design (Http Request&Responce),JavaEE)
+## Week 2 Topics ->(Rest Api Design (Http Request&Responce),Maven,JavaEE)
 ### Rest Api Design 
 - [Rest Api Design (rec,slide)](https://drive.google.com/drive/folders/1kpJHiPO1rk5zV-1dmQokr7JDSadsUUxA)
 
