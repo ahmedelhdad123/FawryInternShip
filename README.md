@@ -23,5 +23,9 @@
 - [ProductEE Repo](https://github.com/ahmedelhdad123/productEE.git)
 ### Junit
 - [unitTest Task](https://github.com/ahmedelhdad123/unitTesting.git)
+## Week 3 Topics ->(Database,ProgrammingParadigms,Agile)
+### ProgrammingParadigms
+- [ProgrammingParadigms Rec](https://drive.google.com/drive/folders/1bjwNAP6QB6rlL8dfCGQh8Vj2v0x6BTGG)
+
 
 
