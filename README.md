@@ -28,14 +28,14 @@
 - [ProgrammingParadigms Rec](https://drive.google.com/drive/folders/1bjwNAP6QB6rlL8dfCGQh8Vj2v0x6BTGG)
   - [Task](https://github.com/ahmedelhdad123/programmingParadigms)
 ## Week 4 Topics ->(SOLID,JAX-RS,Spring)
+### SOLID
+ - [SOLID Rec](https://drive.google.com/drive/folders/13eVb1QV1t7w29-_qSSPVrdFmt9MxnyDa)
 ### JAX-RS
 - [JAX-RS Rec](https://drive.google.com/file/d/1oRofwyaLuWfcTUJdl2mjVHac6y0mByZo/view?usp=drive_link)
    - [ProductJAX Task](https://github.com/ahmedelhdad123/ProductJAX.git)
 ### QUARKUS
  - [ProductQUARKUS Task](https://github.com/ahmedelhdad123/ProductQuarkus.git)
 ## Week 5 Topics(DesignPatterns,Spring)
-### DesignPatterns
- - [DesignPatterns Rec](https://drive.google.com/drive/folders/13eVb1QV1t7w29-_qSSPVrdFmt9MxnyDa)
 ### Spring 
  - [ATM Task](https://github.com/ahmedelhdad123/ATM.git)
 
