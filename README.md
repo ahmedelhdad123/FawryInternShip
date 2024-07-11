@@ -38,6 +38,13 @@
 ## Week 5 Topics(DesignPatterns,Spring)
 ### Spring 
  - [ATM Task](https://github.com/ahmedelhdad123/ATM.git)
+## Week 6 Topics(JDBC,JPA,ORM,WebService)
+### JDBC
+ - [JDBC Task](https://github.com/ahmedelhdad123/jdbc)
+### ORM
+ - [ORM Task](https://github.com/ahmedelhdad123/hibernateTask)
+
+   
 
 
 
