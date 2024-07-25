@@ -43,6 +43,9 @@
  - [JDBC Task](https://github.com/ahmedelhdad123/jdbc)
 ### ORM
  - [ORM Task](https://github.com/ahmedelhdad123/hibernateTask)
+## week 7 Topic(SpringSecurity,Spring)
+### SpringSecurity
+ - [SpringSecurity Rec](https://drive.google.com/drive/folders/1_n6VEFT3GEtsADP-2z3FvkwjfDl0QpJe)
 
    
 
