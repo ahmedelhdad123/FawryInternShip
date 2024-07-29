@@ -4,7 +4,7 @@
 - ![build](https://github.com/ahmedelhdad123/FawryInternShip/assets/91333530/41e71817-fb6f-4a6c-9f25-2cee6aa336dd)
 ------------------------------------------------------------------------------------------------------------------------
 
-## Week 1 Topics ->(OOP,Collections,Git,Java8 lambda expression, streams)
+## Week 1 Topics->(OOP,Collections,Git,Java8 lambda expression, streams)
 
 ### OOP
 - E-Commerce(OOP)
@@ -16,7 +16,7 @@
 ### lamdaExpression
 - [lamdaExpressionTask](https://github.com/ahmedelhdad123/lamdaExpression.git)
 
-## Week 2 Topics ->(Rest Api Design (Http Request&Responce),Maven,JavaEE,Junit)
+## Week 2 Topics->(Rest Api Design(Http Request&Responce),Maven,JavaEE,Junit)
 ### Rest Api Design 
 - [Rest Api Design (rec,slide)](https://drive.google.com/drive/folders/1kpJHiPO1rk5zV-1dmQokr7JDSadsUUxA)
 ### JavaEE
@@ -27,7 +27,7 @@
 ### ProgrammingParadigms
 - [ProgrammingParadigms Rec](https://drive.google.com/drive/folders/1bjwNAP6QB6rlL8dfCGQh8Vj2v0x6BTGG)
   - [Task](https://github.com/ahmedelhdad123/programmingParadigms)
-## Week 4 Topics ->(SOLID,JAX-RS,Spring)
+## Week 4 Topics->(SOLID,JAX-RS,Spring)
 ### SOLID
  - [SOLID Rec](https://drive.google.com/drive/folders/13eVb1QV1t7w29-_qSSPVrdFmt9MxnyDa)
 ### JAX-RS
@@ -43,9 +43,12 @@
  - [JDBC Task](https://github.com/ahmedelhdad123/jdbc)
 ### ORM
  - [ORM Task](https://github.com/ahmedelhdad123/hibernateTask)
-## week 7 Topic(SpringSecurity,Spring)
+## week 7 Topic->(SpringSecurity,Spring)
 ### SpringSecurity
  - [SpringSecurity Rec](https://drive.google.com/drive/folders/1_n6VEFT3GEtsADP-2z3FvkwjfDl0QpJe)
+## week 8 Topic->(JavaScript,TypeScript)
+## week 9 Topic->(Angular,Spring)
+## Week 10 Topic->(Angular,MicroService)
 
    
 
